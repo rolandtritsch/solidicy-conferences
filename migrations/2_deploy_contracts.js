@@ -1,5 +1,4 @@
 module.exports = function(deployer) {
-  deployer.deploy(ConvertLib);
-  deployer.autolink();
-  deployer.deploy(MetaCoin);
+  deployer.deploy(Conference);
+  //deployer.autolink(); // for linking imports of other contracts
 };
