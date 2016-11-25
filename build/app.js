@@ -43436,8 +43436,8 @@ module.exports = transfer;
 
 },{"crypto":56}],222:[function(require,module,exports){
 module.exports = {
-  "Conference": require("/Users/rtritsch/Development/Home/solidicy-conferences/build/contracts/Conference.sol.js"),
   "Migrations": require("/Users/rtritsch/Development/Home/solidicy-conferences/build/contracts/Migrations.sol.js"),
+  "Conference": require("/Users/rtritsch/Development/Home/solidicy-conferences/build/contracts/Conference.sol.js"),
 };
 },{"/Users/rtritsch/Development/Home/solidicy-conferences/build/contracts/Conference.sol.js":1,"/Users/rtritsch/Development/Home/solidicy-conferences/build/contracts/Migrations.sol.js":2}]},{},[222])(222)
 });
